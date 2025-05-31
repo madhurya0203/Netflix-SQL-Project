@@ -2,4 +2,4 @@
 
 ![Netflix Logo](https://github.com/madhurya0203/Netflix-SQL-Project/blob/main/Netflix%20Logo.jpg)
 
-## Objective
+## Overview
